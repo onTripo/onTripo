@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ontripo&label=Profile%20views&color=0e75b6&style=flat" alt="ontripo" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ontripo" alt="ontripo" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Various SaaS Apps**
 - 🌱 I’m currently learning **Machine Learning and AI**
 - 👨‍💻 All of my projects are available at [bikashkandel.com.np](https://bikashkandel.com.np)
